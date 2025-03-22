@@ -36,5 +36,4 @@ In spam_sms_detection.ipynb, we performed the following steps:
 - Pandas, NLTK (Natural Language Processing Toolkit)
 
 ## Usage
-To reproduce the model training and evaluation:
-- open Spam_SMS_Detection.ipynb in Colab Notebook and execute the cells sequentially.
+To reproduce the model training and evaluation, open Spam_SMS_Detection.ipynb in Colab Notebook and execute the cells sequentially.
